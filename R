@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moving Image</title>
+</head>
+<body>
+    <marquee behavior="scroll" direction="left">
+        <img src="your-image-url.jpg" alt="Moving Image" width="100" height="100">
+    </marquee>
+</body>
+</html>
